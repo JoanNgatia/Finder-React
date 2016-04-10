@@ -7,3 +7,7 @@ Save all your favourite locations on one place!!..PS First-ever working React ap
 - Run `npm install`
 - Open index.html file on your browser and you're ready to go!
 
+Dependencies include React.js and material design for bootstrap.
+
+Deployment coming soon. :-) :-*
+
